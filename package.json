@@ -1,10 +1,12 @@
 {
   "name": "jstube",
   "version": "1.0.0",
-  "description": "web app for download videos from youtube ",
+  "description": "web app for download videos from youtube",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "pug": "^2.0.4",
+    "serve-favicon": "^2.5.0"
   },
   "devDependencies": {},
   "repository": {
